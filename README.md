@@ -14,7 +14,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 
 ## 🛠 Skills
 
-**Programming Languages:**
+***Programming Languages:***
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-%23404d59.svg?style=for-the-badge)](https://www.mysql.com/)
