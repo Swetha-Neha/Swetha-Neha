@@ -14,7 +14,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 
 ## 🛠 Skills
 
-*****Programming Languages:*****
+****Programming Languages:****
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-%23404d59.svg?style=for-the-badge)](https://www.mysql.com/)
@@ -29,15 +29,15 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)
 [![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 
-**Databases:**
+****Databases:****
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-**Data Processing:**
+****Data Processing:****
 [![ETL](https://img.shields.io/badge/ETL-%23F7C6C7.svg?style=for-the-badge&logo=apache-airflow&logoColor=black)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 [![Text Processing](https://img.shields.io/badge/Text%20Processing-%23F2C811.svg?style=for-the-badge&logo=python&logoColor=black)](https://en.wikipedia.org/wiki/Text_mining)
 
-**Tools & Platforms:**
+****Tools & Platforms:****
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Excel](https://img.shields.io/badge/Excel-%2314347E.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
@@ -45,15 +45,15 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 [![Glue](https://img.shields.io/badge/AWS%20Glue-%23F5A623.svg?style=for-the-badge&logo=amazon-glue&logoColor=white)](https://aws.amazon.com/glue/)
 [![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-%230B4F4F.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 
-**Machine Learning Models:** 
+****Machine Learning Models:**** 
 - Neural Networks (LLM, NLP, CNN)
 - Classification Algorithms (Logistic Regression, KNN, Random Forest, Decision Trees)
 - Clustering Techniques (K-means)
 - Text Summarization (Word Frequency, TF-IDF)
   
-**Project Management:** Agile, CRISP-DM, Kanban
+****Project Management:**** Agile, CRISP-DM, Kanban
 
-**Project & Task Management Tools:** [![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+****Project & Task Management Tools:**** [![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ## 📚 Education
 - **M.S. in Data Analytics** - San Jose State University (Expected Dec '24)
