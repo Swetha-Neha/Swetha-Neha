@@ -1,7 +1,5 @@
 # Swetha Neha Kutty Sivakumar
 
-👋 Hi there! I'm Swetha, a Data Analytics professional based in San Jose, CA.
-
 ## 🚀 About Me
 I'm passionate about leveraging data to drive insights and solve complex problems. Currently pursuing my Master's in Data Analytics at San Jose State University, I bring hands-on experience in data migration, big data technologies, and analytics from my roles at Coherent Corp, Eviden, Chargebee, Syniti, and Wipro.
 
