@@ -1,5 +1,7 @@
 # Swetha Neha Kutty Sivakumar
 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Swetha, a Data Analyst with over four years of experience in Data Engineering!
+
 ## 🚀 About Me
 I'm passionate about leveraging data to drive insights and solve complex problems. Currently pursuing my Master's in Data Analytics at San Jose State University, I bring hands-on experience in data migration, big data technologies, and analytics from my roles at Coherent Corp, Eviden, Chargebee, Syniti, and Wipro.
 
