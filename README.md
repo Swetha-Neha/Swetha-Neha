@@ -1,5 +1,4 @@
-# Swetha Neha Kutty Sivakumar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-neha/)
+# Swetha Neha Kutty Sivakumar [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-neha/)
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Swetha, a Data Analyst with over four years of experience in Data Engineering!
 
