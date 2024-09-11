@@ -14,14 +14,14 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 
 ## 🛠 Skills
 
-***Programming Languages:***
+****Programming Languages:****
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-%23404d59.svg?style=for-the-badge)](https://www.mysql.com/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C54A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-**Data Analysis & Visualization:**
+****Data Analysis & Visualization:****
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
@@ -39,7 +39,6 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 
 **Tools & Platforms:**
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Excel](https://img.shields.io/badge/Excel-%2314347E.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![S3](https://img.shields.io/badge/AWS%20S3-%23F5A623.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
@@ -54,7 +53,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
   
 **Project Management:** Agile, CRISP-DM, Kanban
 
-**Project & Task Management Tools:** Jira
+**Project & Task Management Tools:** [![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ## 📚 Education
 - **M.S. in Data Analytics** - San Jose State University (Expected Dec '24)
