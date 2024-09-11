@@ -49,7 +49,7 @@ Peer-to-peer (P2P) lending enables individuals to obtain loans directly from oth
 
 ## 📫 How to reach me
 - Email: swethaneha.sivakumar@gmail.com
-- [LinkedIn](Your_LinkedIn_Profile_URL)
-- [GitHub](Your_GitHub_Profile_URL)
+- [LinkedIn](https://www.linkedin.com/in/swetha-neha/)
+- [GitHub](https://github.com/Swetha-Neha)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
