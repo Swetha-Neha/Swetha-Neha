@@ -37,7 +37,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 - **B.E. in Computer Science and Engineering** - Anna University (May '14 - Apr '18)
 
 ## 🏆 Publications
-- [Mitigating Risk in P2P Lending Network: Enhancing Predictions with GenAI and SMOTE]([publication_link](https://iecscience.org/jpapers/178)) (June '24)
+- [Mitigating Risk in P2P Lending Network: Enhancing Predictions with GenAI and SMOTE]([publication_link](https://iecscience.org/jpapers/178) (June '24)
 
 ## 🌟 Featured Projects
 1. **Analysis of Moderation in VTuber Streams** (Aug '23 - Dec '23)
