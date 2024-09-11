@@ -13,9 +13,55 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 - **Project Engineer** at Wipro (May '18 - Mar '20)
 
 ## 🛠 Skills
-- **Programming:** PL/SQL, MySQL, PostgreSQL, Python (Pandas, Numpy, NLTK, Matplotlib, TensorFlow, Keras), JAVA, C++, CSS
-- **Tools:** SSMS database, Tableau Dashboard, Data Stewardship Platform [DSP], Hadoop, MongoDB, PowerBI, SAP LSMW, AWS
-- **Technologies:** Data Structures, Data Engineering, Data Modeling, Data Visualization, Big Data Technologies, Kubernetes, SQL, Data Warehousing, BI Tools, NLP
+
+### Programming Languages
+- C
+- Python
+- SQL
+- Java
+- PostgreSQL
+
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Scikit-learn
+- Seaborn
+- Tableau
+- PowerBI
+
+### Databases
+- SQL (MySQL)
+- NoSQL (MongoDB)
+
+### Data Processing
+- Data Cleaning
+- ETL (Extract, Transform, Load)
+- ELT (Extract, Load, Transform)
+- Text Processing (TF-IDF, Tokenization)
+
+### Statistical Analysis
+- Hypothesis Testing (z-test, t-test)
+
+### Tools & Platforms
+- GitHub
+- Jira
+- Excel
+- AWS (S3, Glue, DynamoDB)
+
+### Machine Learning Models
+1. Neural Networks (LLM, NLP, CNN)
+2. Classification Algorithms (Logistic Regression, KNN, Random Forest, Decision Trees)
+3. Clustering Techniques (K-means)
+4. Text Summarization (Word Frequency, TF-IDF)
+
+### Project Management
+- Agile
+- CRISP-DM
+- Kanban
+
+### Project & Task Management Tools
+- Jira
+
 
 ## 📚 Education
 - **M.S. in Data Analytics** - San Jose State University (Expected Dec '24)
