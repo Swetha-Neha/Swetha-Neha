@@ -38,7 +38,7 @@ I'm passionate about leveraging data to drive insights and solve complex problem
 
 ## 🏆 Publications
 - **Mitigating Risk in P2P Lending Network: Enhancing Predictions with GenAI and SMOTE** [Publication Link](https://iecscience.org/jpapers/178) (June '24)
-- Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other lenders, cutting out the financial institution as the middleman. This study compares the Synthetic Minority Over-sampling Technique (SMOTE) and generative AI for data synthesis to mitigate prediction bias in skewed datasets. Ensemble models, including Logistic Regression, SVM, KNN, and Random Forest, were used, with XGBoost outperforming others in accuracy and F1-score. Both SMOTE and GenAI synthesis demonstrated high performance in risk prediction.
+Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other lenders, cutting out the financial institution as the middleman. This study compares the Synthetic Minority Over-sampling Technique (SMOTE) and generative AI for data synthesis to mitigate prediction bias in skewed datasets. Ensemble models, including Logistic Regression, SVM, KNN, and Random Forest, were used, with XGBoost outperforming others in accuracy and F1-score. Both SMOTE and GenAI synthesis demonstrated high performance in risk prediction.
 
 ## 🌟 Featured Projects
 1. **Analysis of Moderation in VTuber Streams** (Aug '23 - Dec '23)
