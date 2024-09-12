@@ -76,4 +76,10 @@ Peer-to-peer (P2P) lending enables individuals to obtain loans directly from oth
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swetha-Neha)
 
 
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Swetha-Neha&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-neha" />
+</p>
+
+
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
