@@ -73,7 +73,7 @@ Peer-to-peer (P2P) lending enables individuals to obtain loans directly from oth
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethaneha.sivakumar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swetha-Neha)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-neha/)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
 
